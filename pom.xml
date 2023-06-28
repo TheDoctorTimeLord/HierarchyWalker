@@ -4,7 +4,7 @@
 
   <groupId>ru.jengine</groupId>
   <artifactId>hierarchy-walker</artifactId>
-  <version>0.1-SNAPSHOT</version>
+  <version>1.0</version>
   <packaging>jar</packaging>
 
   <name>hierarchy-walker</name>
