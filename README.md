@@ -28,7 +28,7 @@ Using of special utility methods:
 ```
 interface A<T> { }
 
-interface B<E> extends A<T> { }
+interface B<E> extends A<E> { }
 
 class C implements B<C> { }
 
